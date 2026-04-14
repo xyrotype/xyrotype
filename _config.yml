@@ -1,6 +1,6 @@
 title: My Awesome Blog
 description: A place for my thoughts
-remote_theme: pages-themes/cayman # You can change this theme later
+remote_theme: pages-themes/cayman
 
 disqus:
   shortname: xyrotype
