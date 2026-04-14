@@ -33,7 +33,7 @@ title: "xyrotype | Home"
 
   <iframe src="https://discord.com/widget?id=1048595712868372531&theme=dark" width="100%" height="352" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-# Recent Dumps
+<h2 class="section-title">Recent Dumps</h2>
 
 <ul class="post-list">
   {% for post in site.posts %}
