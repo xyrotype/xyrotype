@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Visual Rant: Testing Images"
+---
+
+Sometimes a text dump isn't enough; you need a picture to prove it.
+
+### Here is a test image:
+![A cool workspace](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80)
+
+### How I did this:
+1. I used the Markdown syntax: `![Alt Text](URL)`.
+2. Once you upload your own photos to an `assets` folder, you'll change that URL to `/assets/your-image.jpg`.
+
+**Does it look centered?**
+Because of the `max-width` we set in your `default.html`, this image should stay perfectly inside your navy-blue card without overflowing.
