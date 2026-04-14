@@ -1,6 +1,6 @@
 title: Xyrotype
 description: All my rant dumps are here
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/minimal
 
 disqus:
   shortname: xyrotype
