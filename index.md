@@ -31,8 +31,7 @@ title: "xyrotype | Home"
 <div class="embed-grid">
   <iframe style="border-radius:12px" src="https://open.spotify.com/playlist/7xSSloL88IlBSkIxlYoFZc?si=m79B9mIDRkGhVjAPACH-qg&pi=QOLfMOuHQteFp?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-  <iframe src="https://discord.com/widget?id=1048595712868372531&theme=dark" width="100%" height="352" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</div>
+  <iframe src="https://discord.com/widget?id=1048595712868372531&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 # Recent Dumps
 
