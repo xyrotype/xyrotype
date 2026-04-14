@@ -3,7 +3,7 @@ layout: default
 title: "xyrotype"
 ---
 
-# My Enlisted Posts
+# Enlisted Posts
 
 <ul class="post-list">
   {% for post in site.posts %}
