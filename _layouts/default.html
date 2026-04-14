@@ -94,6 +94,28 @@
             gap: 20px;
             margin-bottom: 50px;
         }
+/* Styling for the middle headers */
+.section-title {
+    font-size: 2rem;
+    font-weight: 800;
+    margin-top: 60px; /* Gives breathing room after the widgets */
+    margin-bottom: 25px;
+    background: linear-gradient(to right, #38bdf8, #818cf8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: -0.5px;
+}
+
+/* Optional: Add a subtle divider above the title for better organization */
+.section-title::before {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 4px;
+    background: var(--accent);
+    border-radius: 2px;
+    margin-bottom: 15px;
+}
 
         /* ARCHIVE LIST */
         .post-list { list-style: none; padding: 0; margin: 30px 0 0 0; }
