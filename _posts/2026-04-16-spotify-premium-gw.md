@@ -15,11 +15,11 @@ One lucky winner will be selected via random draw.
 
 ​**HOW TO ENTER**
 
-​1. First off: Scroll down to the submission form.
-2. ​Complete the Intel: Fill in your Name, Discord ID, and Email.
-3. Set a Passkey: You're required to set a passkey of 6 digits and save it for future. You'll be asked for it if you're picked for the winner. **This is important.**
-4. ​Generate your Submission ID: Once you hit submit, a unique **Submission ID** will appear on your screen.
-5. ​Save your ID: Take a screenshot or save the oken somewhere else. You'll be asked for this ID if you are picked the winner. **This one is also important.**
+​Scroll down to the submission form.
+1. ​Complete the Intel: Fill in your Name, Discord ID, and Email.
+2. Set a Passkey: You're required to set a passkey of 6 digits and save it for future. You'll be asked for it if you're picked for the winner. **This is important.**
+3. ​Generate your Submission ID: Once you hit submit, a unique **Submission ID** will appear on your screen.
+4. ​Save your ID: Take a screenshot or save the oken somewhere else. You'll be asked for this ID if you are picked the winner. **This one is also important.**
 
 ​**THE PROCESS**
 
