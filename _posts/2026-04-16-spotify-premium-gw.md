@@ -56,7 +56,7 @@ You'll asked for your account credentials (email and password), you have to deli
 **2. ELIGIBILITY CRITERIA:**
 2.1. Age Requirements: Participants must be at least 13 years of age at the time of entry.
 
-2.2. Geographic Restrictions: This giveaway is open to [Global / Specific Regions] participants, except where prohibited by local law.
+2.2. Geographic Restrictions: This giveaway is open to Global participants, except where prohibited by local law.
 
 2.3. Account Standing: Participants must have a valid Discord account in good standing. Use of automated scripts, bots, or multiple "alt" accounts to enter is strictly prohibited and will result in immediate disqualification.
 
@@ -72,7 +72,7 @@ You'll asked for your account credentials (email and password), you have to deli
 
 4.2. Notification: The potential winner will be notified via the Discord ID provided during entry. Xyrotype is not responsible for any delay or failure to receive notification due to privacy settings or "Do Not Disturb" modes.
 
-4.3. Claim Period: Prizes must be claimed within 48 hours of the initial notification. Failure to claim within this window constitutes a forfeiture of the prize, and an alternate winner may be selected.
+4.3. Claim Period: Prizes must be claimed within **24** hours of the initial notification. Failure to claim within this window constitutes a forfeiture of the prize, and an alternate winner may be selected.
 
 **5. DATA PRIVACY AND SECURITY:**
 5.1. Data Collection: By entering, you consent to the collection of your Discord ID and Email for the exclusive purpose of giveaway administration and winner verification.
@@ -80,6 +80,6 @@ You'll asked for your account credentials (email and password), you have to deli
 5.2. Data Retention: Personally identifiable information will be purged from our active databases within 30 days of the prize distribution.
 
 **6. LIMITATION OF LIABILITY:**
-6.1. Technical Failures: Xyrotype is not responsible for technical malfunctions, webhook failures, or lost submissions caused by network instability or third-party service outages.
+6.1. Technical Failures: Xyrotype is not responsible for technical malfunctions, purchase failure for region mismatch, webhook failures, or lost submissions caused by network instability or third-party service outages.
 
 6.2. Right to Cancel: We reserve the right to cancel, suspend, or modify the giveaway if fraud or technical failures compromise the integrity of the event.
