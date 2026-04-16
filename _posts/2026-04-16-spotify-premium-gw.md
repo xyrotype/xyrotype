@@ -17,10 +17,11 @@ One lucky winner will be selected via random draw.
 
 ​Scroll down to the submission form.
 1. ​Complete the Intel: Fill in your Name, Discord ID, and Email.
-![Step 1](https://raw.githubusercontent.com/xyrotype/xyrotype/refs/heads/main/_assets/chrome_screenshot_16%20Apr%202026%2023_11_53%20GMT%2B06_00.png)
+![Step 1](https://raw.githubusercontent.com/xyrotype/xyrotype/refs/heads/main/_assets/chrome_screenshot_16%20Apr%202026%2023_12_14%20GMT%2B06_00.png)
 2. Set a Passkey: You're required to set a passkey of 6 digits and save it for future. You'll be asked for it if you're picked for the winner. **This is important.**
 3. ​Generate your Submission ID: Once you hit submit, a unique **Submission ID** will appear on your screen.
 4. ​Save your ID: Take a screenshot or save the oken somewhere else. You'll be asked for this ID if you are picked the winner. **This one is also important.**
+![Step 2](https://raw.githubusercontent.com/xyrotype/xyrotype/refs/heads/main/_assets/chrome_screenshot_16%20Apr%202026%2023_11_53%20GMT%2B06_00.png)
 
 ​**THE PROCESS**
 
