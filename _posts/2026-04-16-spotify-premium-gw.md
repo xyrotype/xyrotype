@@ -41,3 +41,41 @@ One lucky winner will be selected via random draw.
 
 <iframe data-tally-src="https://tally.so/embed/VL1P7E?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="200" frameborder="0" marginheight="0" marginwidth="0" title="Spotify Premium 1 Month Subscription Giveaway by xyrotype"></iframe>
 <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+
+**TERMS AND CONDITIONS**
+
+**1. OFFICIAL RULES AND DISCLOSURES**
+1.1. No Purchase Necessary: No purchase or payment of any kind is necessary to enter or win this giveaway. A purchase will not increase your chances of winning.
+
+1.2. Sponsorship: This giveaway is hosted and operated by Xyrotype. This promotion is in no way sponsored, endorsed, administered by, or associated with Discord, Inc., YouTube, or any other third-party platform.
+
+**2. ELIGIBILITY CRITERIA**
+2.1. Age Requirements: Participants must be at least 13 years of age at the time of entry.
+
+2.2. Geographic Restrictions: This giveaway is open to [Global / Specific Regions] participants, except where prohibited by local law.
+
+2.3. Account Standing: Participants must have a valid Discord account in good standing. Use of automated scripts, bots, or multiple "alt" accounts to enter is strictly prohibited and will result in immediate disqualification.
+
+**3. ENTRY PROCESS AND VALIDATION**
+3.1. Submission: To enter, participants must successfully complete the digital entry form and generate a unique Submission Token.
+
+3.2. Receipt of Entry: The participant is solely responsible for saving their digital receipt. The Submission ID displayed upon completion serves as the only valid proof of entry.
+
+3.3. Duplicate Entries: Only one (1) entry per person is permitted. System logs will be audited for duplicate IP addresses or Discord IDs.
+
+**4. WINNER SELECTION AND NOTIFICATION**
+4.1. Random Draw: Winners will be selected via a verifiable random drawing process.
+
+4.2. Notification: The potential winner will be notified via the Discord ID provided during entry. Xyrotype is not responsible for any delay or failure to receive notification due to privacy settings or "Do Not Disturb" modes.
+
+4.3. Claim Period: Prizes must be claimed within 48 hours of the initial notification. Failure to claim within this window constitutes a forfeiture of the prize, and an alternate winner may be selected.
+
+**5. DATA PRIVACY AND SECURITY**
+5.1. Data Collection: By entering, you consent to the collection of your Discord ID and Email for the exclusive purpose of giveaway administration and winner verification.
+
+5.2. Data Retention: Personally identifiable information will be purged from our active databases within 30 days of the prize distribution.
+
+**6. LIMITATION OF LIABILITY**
+6.1. Technical Failures: Xyrotype is not responsible for technical malfunctions, webhook failures, or lost submissions caused by network instability or third-party service outages.
+
+6.2. Right to Cancel: We reserve the right to cancel, suspend, or modify the giveaway if fraud or technical failures compromise the integrity of the event.
