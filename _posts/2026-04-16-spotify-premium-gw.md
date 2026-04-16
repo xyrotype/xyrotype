@@ -83,3 +83,6 @@ You'll asked for your account credentials (email and password), you have to deli
 6.1. Technical Failures: Xyrotype is not responsible for technical malfunctions, purchase failure for region mismatch, webhook failures, or lost submissions caused by network instability or third-party service outages.
 
 6.2. Right to Cancel: We reserve the right to cancel, suspend, or modify the giveaway if fraud or technical failures compromise the integrity of the event.
+
+
+Goodluck everyone! 
