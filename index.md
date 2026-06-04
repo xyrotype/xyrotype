@@ -21,7 +21,6 @@ title: "xyrotype | Home"
       <a href="https://discord.gg/FrVqEaBCtu" class="social-btn">Discord</a>
       <a href="https://www.instagram.com/xyrotype?igsh=eXJuNWowajR3NzJ6" class="social-btn">Instagram</a>
       <a href="https://x.com/Xyrotype" class="social-btn">X</a>
-      <a href="https://github.com/xyrotype" class="social-btn">Github</a>
       <a href="https://steamcommunity.com/id/TheLightz/" class="social-btn">Steam</a>
        <a href="mailto:xyrotype@gmail.com?subject=Hi%20there!%20&body=I%20wanna%20react%20out%20to%20you%20personally%20about%20the%20following%20reason%3A" class="social-btn">E-mail</a>
     </div>
